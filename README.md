@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub Profile
 
-I'm a **Computer Science student** with a deep curiosity about **physics** and a passion for **game development**. I'm always exploring new ideas and working on interesting projects.
+I'm a **Computer Science student** with a deep curiosity about **physics** and a passion for **AI/ML**. I'm always exploring new ideas and working on interesting projects.
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mustafaiqbal2&show_icons=true&theme=radical)
